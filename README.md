@@ -3,6 +3,7 @@
 **UML Diagram**
 
 Commands:
+
     [Customer]-(Show Events)
     
     [Customer]-(Buy Tickets)
