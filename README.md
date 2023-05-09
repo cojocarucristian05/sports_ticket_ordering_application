@@ -4,28 +4,29 @@
 
 Commands:
 
-    [Customer]-(Show Events)
-    
-    [Customer]-(Buy Tickets)
-    
-    [Customer]-(Show Order History)
-    
-    (Show Order History)>(Log In Customer)
-    
-    (Show Events)>(Log In Customer)
-    
-    (Buy Tickets)>(Log In Customer)
-    
-    [Organizer]-(Manage Events)
-    
-    [Organizer]-(Create Events)
-    
-    (Manage Events)>(Log In Organizer)
-    
-    (Create Events)>(Log In Organizer)
-    
-    (Log In Customer)<(Register)
-    
-    (Log In Organizer)<(Register)
+[Customer]-(Show Events)
 
-![image](https://user-images.githubusercontent.com/93082736/235707622-e3193d5e-3ddb-4833-85f1-e057795b5758.png)
+[Customer]-(Buy Tickets)
+
+[Customer]-(Show Order History)
+
+[Customer]-(Register)
+
+(Show Order History)>(Log In)
+
+(Buy Tickets)>(Log In)
+
+(Show Events)>(Log In)
+
+[Organizer]-(Manage Events)
+
+[Organizer]-(Create Events)
+
+[Organizer]-(Register)
+
+(Manage Events)-(Log In)
+
+(Create Events)-(Log In)
+
+
+![41c17f19](https://github.com/cojocarucristian05/sports_ticket_ordering_application/assets/93082736/ed18505b-2227-4aed-a761-14434cdae787)
