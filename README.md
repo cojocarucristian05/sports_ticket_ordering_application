@@ -28,5 +28,8 @@ Commands:
 
 (Create Events)-(Log In)
 
+(Log In)<(Invalid Credentials)
 
-![41c17f19](https://github.com/cojocarucristian05/sports_ticket_ordering_application/assets/93082736/ed18505b-2227-4aed-a761-14434cdae787)
+![uml_diagram](https://github.com/cojocarucristian05/sports_ticket_ordering_application/assets/93082736/922f9044-2d85-436a-a0f7-a4ab02eee827)
+
+
