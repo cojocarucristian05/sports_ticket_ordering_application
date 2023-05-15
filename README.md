@@ -24,12 +24,13 @@ Commands:
 
 [Organizer]-(Register)
 
-(Manage Events)-(Log In)
+(Manage Events)>(Log In)
 
-(Create Events)-(Log In)
+(Create Events)>(Log In)
 
 (Log In)<(Invalid Credentials)
 
-![uml_diagram](https://github.com/cojocarucristian05/sports_ticket_ordering_application/assets/93082736/922f9044-2d85-436a-a0f7-a4ab02eee827)
+
+![uml_diagram](https://github.com/cojocarucristian05/sports_ticket_ordering_application/assets/93082736/f50b5c49-f9f2-4eeb-a365-e14097f95051)
 
 
